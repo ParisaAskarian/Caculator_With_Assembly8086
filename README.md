@@ -12,3 +12,8 @@ This caculator can determine these errors:
           1. Invalid Charecter
           2. Unbalenced Paranthes
           3. Divide By Zero 
+
+## Contributors
+
+- Parisa Askarian – Developer
+- Ala Zahedifar – Developer          
